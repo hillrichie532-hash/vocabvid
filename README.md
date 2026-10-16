@@ -2,6 +2,12 @@
 
 Turn your Anki vocab deck into a study video — Chinese, Japanese, Vietnamese, and more.
 
+![VocabVid main view](screenshots/main.png)
+
+![Drag-and-drop layout mode](screenshots/layout.png)
+
+![Simple color picker](screenshots/background.png)
+
 ## Features
 
 - Preview-first — see every style change live before rendering
@@ -24,7 +30,7 @@ Turn your Anki vocab deck into a study video — Chinese, Japanese, Vietnamese, 
 
 ## Install from source
 
-    git clone https://github.com/yourname/vocabvid.git
+    git clone https://github.com/hillrichie532-hash/vocabvid.git
     cd vocabvid
     python3 -m venv venv
     source venv/bin/activate
